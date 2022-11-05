@@ -3843,6 +3843,13 @@ svgo@^2.7.0:
     picocolors "^1.0.0"
     stable "^0.1.8"
 
+tailgrids@^1.1.6, tailgrids@^1.1.7:
+  version "1.1.7"
+  resolved "https://registry.yarnpkg.com/tailgrids/-/tailgrids-1.1.7.tgz#2b4ac426a7e90f81fdf29cb396dd8c7a677400c0"
+  integrity sha512-osqy2ArBL1Pk1oxHB+jHBGsN4332jvpmgKdXYWsU9bQXduJ0WyQPH5kXVnesQ1KYZBujVv7aKsKyDEYQvRuGcw==
+  dependencies:
+    tailgrids "^1.1.6"
+
 tailwindcss@^3.2.1:
   version "3.2.1"
   resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-3.2.1.tgz#1bd828fff3172489962357f8d531c184080a6786"

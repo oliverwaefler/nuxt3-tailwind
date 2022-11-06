@@ -1,4 +1,9 @@
 <template>
-<comp-1/>
-<comp-2/>
+  <div>
+    <!-- Markup shared across all pages, ex: NavBar -->
+    <NuxtPage />
+  </div>
 </template>
+<script>
+
+</script>

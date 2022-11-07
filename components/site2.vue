@@ -1,5 +1,5 @@
 <template>
-  <section class="bg-[#F9e4d3] py-[70px]">
+  <section class="bg-[#d3eaf2] py-[70px]">
     <div class="mx-auto px-4 sm:container">
       <div>
         <h2 class="mb-2 text-4xl font-semibold text-black">
@@ -21,7 +21,7 @@
   </section>
   <section class="bg-[#F3F4F6] pt-20 pb-10 lg:pt-[120px] lg:pb-20">
     <div class="container mx-auto">
-      <div class="-mx-4 flex flex-wrap">
+      <div class="-mx-4 flex flex-wrap px-2">
         <div class="w-full px-4 md:w-1/2 xl:w-1/3">
           <div class="mb-10 overflow-hidden rounded-lg bg-white">
             <img
@@ -113,9 +113,9 @@
     </div>
   </section>
   <!-- ====== Contact Section Start -->
-  <section class="bg-[#F9e4d3] relative z-10 overflow-hidden bg-white py-20 lg:py-[120px]">
+  <section class="bg-[#d3eaf2] relative z-10 overflow-hidden bg-white py-20 lg:py-[120px]">
     <div class="container mx-auto">
-      <div class="-mx-4 flex flex-wrap lg:justify-between">
+      <div class="-mx-4 flex flex-wrap lg:justify-between px-2">
         <div class="w-full px-4 lg:w-1/2 xl:w-6/12">
           <div class="mb-12 max-w-[570px] lg:mb-0">
           <span class="text-primary mb-4 block text-base font-semibold">

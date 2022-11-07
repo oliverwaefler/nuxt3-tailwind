@@ -1,7 +1,5 @@
 <template>
-
-
-  <section class=" overflow-hidden pt-20 pb-12 lg:pt-[120px] lg:pb-[90px]">
+  <section class="bg-[#e5ece2] overflow-hidden pt-20 pb-12 lg:pt-[120px] lg:pb-[90px]">
     <div class="container mx-auto">
       <div class="-mx-4 flex flex-wrap">
         <div class="w-full px-4">
@@ -23,9 +21,9 @@
       </div>
     </div>
   </section>
-    <section class="bg-[#869c79] overflow-hidden pt-20 pb-12 lg:pt-[120px] lg:pb-[90px]">
+    <section class="bg-[#b2c5a8] overflow-hidden pt-20 pb-12 lg:pt-[120px] lg:pb-[90px]">
     <div class="container mx-auto">
-      <div class="-mx-4 flex flex-wrap items-center justify-between">
+      <div class="-mx-4 flex flex-wrap items-center justify-between px-4">
         <div class="w-full px-4 lg:w-6/12">
           <div class="-mx-3 flex items-center sm:-mx-4">
             <div class="w-full px-3 sm:px-4 xl:w-1/2">
